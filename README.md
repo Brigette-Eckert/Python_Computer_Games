@@ -10,3 +10,7 @@ Made while following along the book "Invent Your Own Computer Games with Python"
    * User attempts to guess the number
    * Computer tells the user if their number is high, low or spot on
    * User wins if they guess the correct number within 6 turns
+
+## Tell Jokes
+    * Computer will tell a series of jokes
+    
