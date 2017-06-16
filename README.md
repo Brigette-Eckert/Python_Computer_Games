@@ -12,5 +12,11 @@ Made while following along the book "Invent Your Own Computer Games with Python"
    * User wins if they guess the correct number within 6 turns
 
 ## Tell Jokes
-    * Computer will tell a series of jokes
-    
+   * Computer will tell a series of jokes
+
+## Dragon Realm
+   * Computer generates two caves
+   * One gave holds treasure and the other one certain doom
+   * Player must decide between the two caves
+
+
