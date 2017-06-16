@@ -1,9 +1,14 @@
 .idea
+**/.idea
 __pycache__/
+**/__pycache__
 
 # Environments
 .env
+**/.env
 .venv
-env/
-venv/
-ENV/
+**/.venv
+.myenv
+**/.myenv
+
+
